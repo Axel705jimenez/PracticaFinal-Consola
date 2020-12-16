@@ -1,0 +1,13 @@
+C:\Users\veronica\source\repos\ProyectoAxel-Consola\ProyectoAxel-Consola\bin\Debug\netcoreapp3.1\ProyectoAxel-Consola.exe
+C:\Users\veronica\source\repos\ProyectoAxel-Consola\ProyectoAxel-Consola\bin\Debug\netcoreapp3.1\ProyectoAxel-Consola.deps.json
+C:\Users\veronica\source\repos\ProyectoAxel-Consola\ProyectoAxel-Consola\bin\Debug\netcoreapp3.1\ProyectoAxel-Consola.runtimeconfig.json
+C:\Users\veronica\source\repos\ProyectoAxel-Consola\ProyectoAxel-Consola\bin\Debug\netcoreapp3.1\ProyectoAxel-Consola.runtimeconfig.dev.json
+C:\Users\veronica\source\repos\ProyectoAxel-Consola\ProyectoAxel-Consola\bin\Debug\netcoreapp3.1\ProyectoAxel-Consola.dll
+C:\Users\veronica\source\repos\ProyectoAxel-Consola\ProyectoAxel-Consola\bin\Debug\netcoreapp3.1\ProyectoAxel-Consola.pdb
+C:\Users\veronica\source\repos\ProyectoAxel-Consola\ProyectoAxel-Consola\obj\Debug\netcoreapp3.1\ProyectoAxel-Consola.AssemblyInfoInputs.cache
+C:\Users\veronica\source\repos\ProyectoAxel-Consola\ProyectoAxel-Consola\obj\Debug\netcoreapp3.1\ProyectoAxel-Consola.AssemblyInfo.cs
+C:\Users\veronica\source\repos\ProyectoAxel-Consola\ProyectoAxel-Consola\obj\Debug\netcoreapp3.1\ProyectoAxel-Consola.csproj.CoreCompileInputs.cache
+C:\Users\veronica\source\repos\ProyectoAxel-Consola\ProyectoAxel-Consola\obj\Debug\netcoreapp3.1\ProyectoAxel-Consola.dll
+C:\Users\veronica\source\repos\ProyectoAxel-Consola\ProyectoAxel-Consola\obj\Debug\netcoreapp3.1\ProyectoAxel-Consola.pdb
+C:\Users\veronica\source\repos\ProyectoAxel-Consola\ProyectoAxel-Consola\obj\Debug\netcoreapp3.1\ProyectoAxel-Consola.genruntimeconfig.cache
+C:\Users\veronica\source\repos\ProyectoAxel-Consola\ProyectoAxel-Consola\obj\Debug\netcoreapp3.1\ProyectoAxel-Consola.csprojAssemblyReference.cache
